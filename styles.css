@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
+
 /*
 =============== 
 Variables
@@ -127,7 +128,7 @@ p {
   display: block;
 }
 .text-slanted {
-  font-family: "Kaushan Script", cursive;
+  font-family: "Alex Brush", cursive;
 }
 .section-center {
   width: 90vw;
@@ -253,8 +254,9 @@ Navbar
   }
   .nav-links {
     display: flex;
-    font-size: 1.5rem;
+    font-size: 3.5rem;
     text-transform: capitalize;
+    font-family: "Alex Brush", cursive;
   }
   .nav-link {
     color: var(--clr-white);
