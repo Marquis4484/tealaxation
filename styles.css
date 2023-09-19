@@ -194,9 +194,26 @@ Navbar
   justify-content: space-between;
   align-items: center;
 }
+
+.logo-with-nav {
+  display: flex;
+}
+.nav-logo {
+  width: 60px;
+  height: 55px;
+}
+.nav-link-logo {
+  width: 237px;
+  height: 83px;
+  font-family: "Alex Brush", cursive;
+  color: var(--clr-white);
+  transition: var(--transition);
+}
+
 .nav-links {
   display: none;
 }
+
 .toggle-nav {
   background: var(--clr-primary-5);
   border-color: transparent;
@@ -243,12 +260,7 @@ Navbar
   .nav-center {
     position: relative;
   }
-  .nav-logo {
-    position: absolute;
-    top: 50%;
-    left: 65%;
-    transform: translate(-50%, -50%);
-  }
+
   .toggle-nav {
     display: none;
   }
@@ -261,7 +273,6 @@ Navbar
   .nav-link {
     color: var(--clr-white);
     margin-right: 3rem;
-    letter-spacing: var(--spacing);
     transition: var(--transition);
     font-size: 1.25rem;
   }
