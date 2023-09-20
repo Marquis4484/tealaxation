@@ -183,8 +183,7 @@ Navbar
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 94px;
-  color: blue;
+  background-color: white;
 }
 
 .nav-center {
@@ -199,14 +198,15 @@ Navbar
   display: flex;
 }
 .nav-logo {
-  width: 60px;
-  height: 55px;
+  width: 55px;
+  height: 50px;
+  margin-right: 1rem;
+  text-align: center;
 }
 .nav-link-logo {
-  width: 237px;
-  height: 83px;
+  font-size: 3.5rem;
+  color: black;
   font-family: "Alex Brush", cursive;
-  color: var(--clr-white);
   transition: var(--transition);
 }
 
@@ -239,7 +239,7 @@ Navbar
   background: transparent;
   border-color: transparent;
   font-size: 1.6rem;
-  color: var(--clr-white);
+  color: black;
   cursor: pointer;
 }
 .cart-item-count {
@@ -256,11 +256,23 @@ Navbar
   font-weight: bold;
   font-size: 1rem;
 }
-@media screen and (min-width: 800px) {
+
+/* These styles will not be applied if min-width is reached */
+@media screen and (min-width: 850px) {
   .nav-center {
     position: relative;
   }
 
+  .logo-with-nav {
+    display: flex;
+    align-items: center;
+  }
+  .nav-logo {
+    width: 55px;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  
   .toggle-nav {
     display: none;
   }
@@ -271,20 +283,25 @@ Navbar
     font-family: "Alex Brush", cursive;
   }
   .nav-link {
-    color: var(--clr-white);
+    color: black;
     margin-right: 3rem;
     transition: var(--transition);
-    font-size: 1.25rem;
+    font-size: 2.25rem;
   }
   .nav-link:hover {
     color: var(--clr-primary-5);
   }
-}
-@media screen and (min-width: 992px) {
-  .nav-logo {
-    left: 50%;
+  .nav-link-logo {
+    font-size: 3.5rem;
+    color: black;
+    font-family: "Alex Brush", cursive;
+    transition: var(--transition);
+  }
+  .nav-link-logo:hover {
+    color: var(--clr-primary-5);
   }
 }
+
 /* page navbar */
 .page .nav-link {
   color: var(--clr-grey-1);
@@ -302,7 +319,6 @@ Hero
 */
 .hero {
   min-height: 100vh;
-  margin-top: -6rem;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(./images/Tealaxation_Home.jpg) center/cover;
   display: grid;
