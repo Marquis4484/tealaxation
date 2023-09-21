@@ -44,7 +44,7 @@ Variables
   --radius: 0.25rem;
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-  --max-width: 1170px;
+  --max-width: 1400px;
   --fixed-width: 620px;
 }
 /*
@@ -130,9 +130,10 @@ p {
 .text-slanted {
   font-family: "Alex Brush", cursive;
 }
+/* max-width:maximun width element can be */
 .section-center {
   width: 90vw;
-  max-width: var(--max-width);
+  max-width: var(--max-width); 
   margin: 0 auto;
 }
 .section {
@@ -272,7 +273,7 @@ Navbar
     height: 50px;
     margin-right: 1rem;
   }
-  
+
   .toggle-nav {
     display: none;
   }
