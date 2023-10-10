@@ -133,7 +133,7 @@ p {
 /* max-width:maximun width element can be */
 .section-center {
   width: 90vw;
-  max-width: var(--max-width); 
+  max-width: var(--max-width);
   margin: 0 auto;
 }
 .section {
@@ -193,6 +193,7 @@ Navbar
   display: flex;
   justify-content: space-between;
   align-items: center;
+  align-self: center;
 }
 
 .logo-with-nav {
@@ -340,14 +341,15 @@ Hero
 .hero-btn {
   color: var(--clr-white);
   background: transparent;
-  border: 1px solid var(--clr-white);
-  padding: 0.5rem 0.75rem;
+  border: 5px solid var(--clr-white);
+  padding: 1rem 1.5rem;
   display: inline-block;
   margin-top: 0.75rem;
   text-transform: uppercase;
   letter-spacing: var(--spacing);
   border-radius: var(--radius);
   transition: var(--transition);
+  font-size: 24px;
 }
 .hero-btn:hover {
   background: var(--clr-white);
