@@ -63,7 +63,7 @@ Global Styles
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  background: var(--clr-white);
+  background: #f0f0f0;
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
@@ -88,7 +88,7 @@ h1 {
   font-size: 3rem;
 }
 h2 {
-  font-size: 2rem;
+  font-size: 90px;
 }
 h3 {
   font-size: 1.25rem;
@@ -134,10 +134,12 @@ p {
 .section-center {
   width: 90vw;
   max-width: var(--max-width);
-  margin: 0 auto;
+  margin: 20px auto;
+  background-color: white;
+  border-radius: 35px;
 }
 .section {
-  padding: 5rem 0;
+  padding: 5rem 5rem;
 }
 .btn {
   background: var(--clr-primary-5);
@@ -555,7 +557,8 @@ Title
   display: flex;
   justify-content: center;
   align-items: center;
-  font-weight: 500;
+  font-family: "Alex Brush", cursive;
+  font-size: 90px;
 }
 .title span {
   color: var(--clr-primary-5);
@@ -653,10 +656,15 @@ About Page
 ===============
 */
 .about-text {
-  line-height: 2;
   max-width: 45em;
   margin: 0 auto;
   margin-top: 2rem;
+  color: #000;
+  font-family: Alegreya Sans;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 /*
@@ -757,7 +765,7 @@ Single Product Page
   min-height: 20vh;
   display: grid;
   place-items: center;
-  background: var(--clr-grey-10);
+  background: #f0f0f0;
   color: var(--clr-grey-5);
 }
 .page-hero-title {
