@@ -553,6 +553,12 @@ Title
 ===============
 */
 
+.main-locations {
+  display: flex;
+
+  flex-direction: column;
+}
+
 .title h2 {
   display: flex;
   justify-content: center;
@@ -676,7 +682,6 @@ Locations Page
 .locations-text {
   max-width: 45em;
   margin: 0 auto;
-  margin-top: 2rem;
   color: #000;
   font-family: Alegreya Sans;
   font-size: 48px;
@@ -684,6 +689,16 @@ Locations Page
   font-weight: 400;
   line-height: normal;
   text-align: center;
+}
+
+.locations-title {
+  padding: 35px 0px 0px 0px;
+}
+
+.map {
+  width: 1218px;
+  height: 654px;
+  margin: 0 auto;
 }
 
 /*
