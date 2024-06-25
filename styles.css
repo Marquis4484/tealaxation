@@ -285,6 +285,7 @@ Navbar
     font-size: 3.5rem;
     text-transform: capitalize;
     font-family: "Alex Brush", cursive;
+    padding: 0px 0px 0px 50px;
   }
   .nav-link {
     color: black;
