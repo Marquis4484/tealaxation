@@ -262,7 +262,7 @@ Navbar
 }
 
 /* These styles will not be applied if min-width is reached */
-@media screen and (min-width: 850px) {
+@media screen and (min-width: 950px) {
   .nav-center {
     position: relative;
   }
