@@ -1,3 +1,4 @@
+
 import { getElement } from "../utils.js";
 
 const cartOverlay = getElement(".cart-overlay");
