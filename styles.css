@@ -202,16 +202,17 @@ Navbar
   display: flex;
 }
 .nav-logo {
-  width: 55px;
-  height: 50px;
+  width: 45px;
+  height: 45px;
   margin-right: 1rem;
   text-align: center;
 }
 .nav-link-logo {
-  font-size: 3.5rem;
+  font-size: 3.2rem;
   color: black;
   font-family: "Alex Brush", cursive;
   transition: var(--transition);
+  margin-left: 0.5rem;
 }
 
 .nav-links {
@@ -231,6 +232,7 @@ Navbar
   border-radius: 2rem;
   cursor: pointer;
   transition: var(--transition);
+  margin-top: 10px;
 }
 .toggle-nav:hover {
   background: var(--clr-primary-3);
@@ -272,9 +274,10 @@ Navbar
     align-items: center;
   }
   .nav-logo {
-    width: 55px;
-    height: 50px;
+    width: 45px;
+    height: 45px;
     margin-right: 1rem;
+    margin-top: 20px;
   }
 
   .toggle-nav {
@@ -436,6 +439,21 @@ Sidebar
 @media screen and (min-width: 800px) {
   .sidebar-overlay {
     display: none;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .nav-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 1rem;
+  }
+
+  .nav-link-logo {
+    font-size: 2.8rem;
+    color: black;
+    font-family: "Alex Brush", cursive;
+    transition: var(--transition);
   }
 }
 /*
