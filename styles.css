@@ -583,7 +583,6 @@ Title
   justify-content: center;
   align-items: center;
   font-family: "Alex Brush", cursive;
-  font-size: 90px;
 }
 .title span {
   color: var(--clr-primary-5);
@@ -692,6 +691,26 @@ About Page
   line-height: normal;
 }
 
+.about-text {
+  font-size: 40px;
+}
+
+.about-title {
+  font-size: 100px;
+  text-align: center;
+}
+
+@media screen and (max-width: 750px) {
+  .about-text {
+    max-width: 20em;
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .about-title {
+    font-size: 42px;
+  }
+}
 /*
 =============== 
 Locations Page
@@ -703,7 +722,7 @@ Locations Page
   margin: 0 auto;
   color: #000;
   font-family: Alegreya Sans;
-  font-size: 48px;
+  font-size: 32px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -712,6 +731,7 @@ Locations Page
 
 .locations-title {
   padding: 35px 0px 0px 0px;
+  font-size: 100px;
 }
 
 .map {
@@ -720,6 +740,76 @@ Locations Page
   margin: 0 auto;
 }
 
+@media screen and (max-width: 1250px) {
+  .map {
+    width: 1018px;
+    height: 534px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .map {
+    width: 818px;
+    height: 464px;
+    margin: 0 auto;
+  }
+  .locations-title {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .locations-text {
+    max-width: 20em;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .locations-title {
+    font-size: 60px;
+  }
+  .map {
+    width: 718px;
+    height: 464px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .map {
+    width: 590px;
+    height: 364px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .map {
+    width: 430px;
+    height: 264px;
+    margin: 0 auto;
+  }
+  .locations-title {
+    font-size: 50px;
+  }
+  .locations-text {
+    max-width: 20em;
+    font-size: 20px;
+    font-weight: 500;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .map {
+    width: 380px;
+    height: 244px;
+    margin: 0 auto;
+  }
+  .locations-title {
+    text-align: center;
+  }
+}
 /*
 =============== 
 Products Page
