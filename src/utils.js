@@ -1,5 +1,5 @@
 const allProductsUrl = "https://course-api.com/javascript-store-products";
-// change this url
+
 const singleProductUrl =
   "https://course-api.com/javascript-store-single-product";
 
