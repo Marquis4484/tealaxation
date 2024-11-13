@@ -15,23 +15,23 @@
           "id": "attcvDDMikF6G2iNi1",
           "width": 1000,
           "height": 639,
-          "url": "https://tealaxation/product-1.jpeg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Earl%20Grey.jpg",
           "filename": "product-1.jpeg",
           "size": 62864,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-1.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Earl%20Grey.jpg",
               "width": 56,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-1.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Earl%20Grey.jpg",
               "width": 801,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-1.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Earl%20Grey.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -55,23 +55,23 @@
           "id": "attP2cUyxU35M1zbw2",
           "width": 1000,
           "height": 1500,
-          "url": "https://tealaxation/product-2.jpeg",
-          "filename": "product-1.jpeg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Peachy%20Keen.jpg",
+          "filename": "product-2.jpeg",
           "size": 119274,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-2.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Peachy%20Keen.jpg",
               "width": 24,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-2.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Peachy%20Keen.jpg",
               "width": 512,
               "height": 768
             },
             "full": {
-              "url": "https://tealaxation/product-2.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Peachy%20Keen.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -96,23 +96,23 @@
           "id": "attIieysyB9zQmQo93",
           "width": 1000,
           "height": 667,
-          "url": "https://tealaxation/product-3.jpeg",
-          "filename": "product-4.jpeg",
+          "url": "https://marquis4484.github.io/tealaxation_images/English%20Breakfast.jpg",
+          "filename": "product-3.jpeg",
           "size": 49641,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-3.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/English%20Breakfast.jpg",
               "width": 54,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-3.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/English%20Breakfast.jpg",
               "width": 768,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-3.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/English%20Breakfast.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -136,23 +136,23 @@
           "id": "attXaEED3KJcY2cjY4",
           "width": 1280,
           "height": 1891,
-          "url": "https://tealaxation/product-4.jpeg",
-          "filename": "pexels-dominika-roseclay-1139785.jpg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Jade%20Song.jpg",
+          "filename": "product-4.jpg",
           "size": 203105,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-4.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Jade%20Song.jpg",
               "width": 24,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-4.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Jade%20Song.jpg",
               "width": 512,
               "height": 756
             },
             "full": {
-              "url": "https://tealaxation/product-4.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Jade%20Song.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -176,23 +176,23 @@
           "id": "attxkKEEgmBnutpwI5",
           "width": 1280,
           "height": 1858,
-          "url": "https://tealaxation/product-5.jpeg",
-          "filename": "product-8.jpg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Kenyan%20Purple%20Leaf.jpg",
+          "filename": "product-5.jpg",
           "size": 281908,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-5.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Kenyan%20Purple%20Leaf.jpg",
               "width": 25,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-5.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Kenyan%20Purple%20Leaf.jpg",
               "width": 512,
               "height": 743
             },
             "full": {
-              "url": "https://tealaxation/product-5.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Kenyan%20Purple%20Leaf.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -215,23 +215,23 @@
           "id": "att5iyl4TJvd3oepN6",
           "width": 1000,
           "height": 625,
-          "url": "https://tealaxation/product-6.jpeg",
-          "filename": "product-1.jpeg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Lapsang%20Souchong.jpg",
+          "filename": "product-6.jpeg",
           "size": 56151,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-6.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Lapsang%20Souchong.jpg",
               "width": 58,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-6.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Lapsang%20Souchong.jpg",
               "width": 819,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-6.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Lapsang%20Souchong.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -256,23 +256,23 @@
           "id": "attDj1C6GxJMsJ1he7",
           "width": 1280,
           "height": 720,
-          "url": "https://tealaxation/product-7.jpeg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Milk%20Oolong.jpg",
           "filename": "product-7.jpg",
           "size": 162415,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-7.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Milk%20Oolong.jpg",
               "width": 64,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-7.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Milk%20Oolong.jpg",
               "width": 910,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-7.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Milk%20Oolong.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -295,23 +295,23 @@
           "id": "attiwrd7gSI1oGxRK8",
           "width": 1280,
           "height": 720,
-          "url": "https://tealaxation/product-8.jpeg",
-          "filename": "product-6.jpg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Vanilla%20Velvet.jpg",
+          "filename": "product-8.jpg",
           "size": 178908,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-8.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Vanilla%20Velvet.jpg",
               "width": 64,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-8.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Vanilla%20Velvet.jpg",
               "width": 910,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-8.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Vanilla%20Velvet.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -336,23 +336,23 @@
           "id": "attqutUt355traBeS9",
           "width": 1280,
           "height": 846,
-          "url": "https://tealaxation/product-9.jpeg",
-          "filename": "product-3.jpg",
+          "url": "https://marquis4484.github.io/tealaxation_images/White%20Peony.jpg",
+          "filename": "product-9.jpg",
           "size": 196312,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-9.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/White%20Peony.jpg",
               "width": 54,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-9.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/White%20Peony.jpg",
               "width": 775,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-9.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/White%20Peony.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -377,23 +377,23 @@
           "id": "atttOzyYI8P1XfJu810",
           "width": 1280,
           "height": 924,
-          "url": "https://tealaxation/product-10.jpeg",
-          "filename": "product-2.jpg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Winter%20Forest.jpg",
+          "filename": "product-10.jpg",
           "size": 195175,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-10.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Winter%20Forest.jpg",
               "width": 50,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-10.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Winter%20Forest.jpg",
               "width": 709,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-10.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Winter%20Forest.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -417,23 +417,23 @@
           "id": "attjWNxk7KKzcLPDx11",
           "width": 1000,
           "height": 652,
-          "url": "https://tealaxation/product-11.jpeg",
-          "filename": "product-1.jpeg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Cinnamon.jpg",
+          "filename": "product-11.jpeg",
           "size": 61946,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-11.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Cinnamon.jpg",
               "width": 55,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-11.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Cinnamon.jpg",
               "width": 785,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-11.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Cinnamon.jpg",
               "width": 3000,
               "height": 3000
             }
@@ -456,23 +456,23 @@
           "id": "attnZHyyOUTBzJ1ZD12",
           "width": 1280,
           "height": 960,
-          "url": "https://tealaxation/product-12.jpeg",
-          "filename": "product-5.jpg",
+          "url": "https://marquis4484.github.io/tealaxation_images/Jasmine%20Yin%20Cloud%20Tea.jpg",
+          "filename": "product-12.jpg",
           "size": 189559,
           "type": "image/jpeg",
           "thumbnails": {
             "small": {
-              "url": "https://tealaxation/product-12.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Jasmine%20Yin%20Cloud%20Tea.jpg",
               "width": 48,
               "height": 36
             },
             "large": {
-              "url": "https://tealaxation/product-12.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Jasmine%20Yin%20Cloud%20Tea.jpg",
               "width": 683,
               "height": 512
             },
             "full": {
-              "url": "https://tealaxation/product-12.jpeg",
+              "url": "https://marquis4484.github.io/tealaxation_images/Jasmine%20Yin%20Cloud%20Tea.jpg",
               "width": 3000,
               "height": 3000
             }
