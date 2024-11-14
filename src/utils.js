@@ -1,9 +1,6 @@
 const allProductsUrl =
   "https://marquis4484.github.io/tealaxation_api/JSON_STORE_API.json";
 
-const singleProductUrl =
-  "https://course-api.com/javascript-store-single-product";
-
 const getElement = (selection) => {
   const element = document.querySelector(selection);
   if (element) return element;
@@ -19,7 +16,6 @@ const setStorageItem = () => {};
 
 export {
   allProductsUrl,
-  singleProductUrl,
   getElement,
   formatPrice,
   getStorageItem,
