@@ -27,3 +27,5 @@ const setupSearch = (store) => {
 };
 
 export default setupSearch;
+
+//setupSearch
