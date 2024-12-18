@@ -958,3 +958,13 @@ Single Product Page
     grid-template-columns: 1fr 1fr;
   }
 }
+
+/*
+=============== 
+Extra
+===============
+*/
+
+.featured-center {
+  display: none;
+}

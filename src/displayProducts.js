@@ -8,7 +8,7 @@ const display = (products, element, filters) => {
       return ` <article class="product">
           <div class="product-container">
             <img src="${image}" class="product-img img" alt="${name}" />
-
+           
             <div class="product-icons">
               <a href="product.html?id=${id}" class="product-icon">
                 <i class="fas fa-search"></i>
