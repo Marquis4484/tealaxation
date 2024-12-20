@@ -27,11 +27,19 @@ window.addEventListener("DOMContentLoaded", async function () {
   console.log(urlID);
 
   try {
-    const response = await fetch(`${allProductsUrl}${urlID}`);
+    const response = await fetch(`${allProductsUrl}`);
+
     if (response.status >= 200 && response.status <= 299) {
-      const product = await response.json();
+      let product = await response.json();
       // grab data
-      const { id, fields } = product;
+      let newUrlId = urlID.slice(4);
+      let res = product.filter((item) => {
+        return item.id === newUrlId;
+      });
+      console.log(res);
+      let exactRes = res[0];
+
+      const { id, fields } = exactRes;
       productID = id;
 
       const { name, company, price, colors, description } = fields;
