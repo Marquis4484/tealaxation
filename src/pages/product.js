@@ -27,27 +27,27 @@ window.addEventListener("DOMContentLoaded", async function () {
   console.log(urlID);
 
   try {
-    const response = await fetch(`${allProductsUrl}`);
+    const response = await fetch(`${allProductsUrl}${urlID}`);
 
     if (response.status >= 200 && response.status <= 299) {
-      let product = await response.json();
+      const exactRes = await response.json();
       // grab data
-      let newUrlId = urlID.slice(4);
-      let res = product.filter((item) => {
-        return item.id === newUrlId;
+      const newUrlId = urlID.slice(4);
+      const res = exactRes.filter((item) => {
+        return item.id == newUrlId;
       });
       console.log(res);
-      let exactRes = res[0];
+      const product = res[0];
 
-      const { id, fields } = exactRes;
+      const { id, fields } = product;
       productID = id;
 
       const { name, company, price, colors, description } = fields;
       const image = fields.image[0].thumbnails.large.url;
       // set values
 
-      document.title = `${name.toUpperCase()} | Comfy`;
-      pageTitleDOM.textContent = `Home / ${name}`;
+      document.title = `${name.toUpperCase()} `;
+      pageTitleDOM.textContent = `${name}`;
       imgDOM.src = image;
       titleDOM.textContent = name;
       companyDOM.textContent = `by ${company}`;
