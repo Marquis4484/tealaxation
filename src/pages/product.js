@@ -5,7 +5,7 @@ import "../cart/setupCart.js";
 // specific
 import { addToCart } from "../cart/setupCart.js";
 import { getElement, formatPrice, allProductsUrl } from "../utils.js";
-//shop update
+
 // selections
 const loading = getElement(".page-loading");
 const centerDOM = getElement(".single-product-center");
