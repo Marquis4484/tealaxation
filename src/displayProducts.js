@@ -32,6 +32,7 @@ const display = (products, element, filters) => {
     const parent = e.target.parentElement;
     if (parent.classList.contains("product-cart-btn")) {
       addToCart(parent.dataset.id);
+
     }
   });
 };
