@@ -46,7 +46,7 @@ window.addEventListener("DOMContentLoaded", async function () {
       const image = fields.image[0].thumbnails.large.url;
       // set values
 
-      document.title = `${name.toUpperCase()} `;
+      document.title = `${name} `;
       pageTitleDOM.textContent = `${name}`;
       imgDOM.src = image;
       titleDOM.textContent = name;
