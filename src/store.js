@@ -18,4 +18,3 @@ const findProduct = (id) => {
 };
 
 export { store, setupStore, findProduct };
-//update
